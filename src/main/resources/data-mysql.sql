@@ -1,0 +1,1 @@
+INSERT INTO `test` (id, firstname, lastname) VALUES (1,'PeterM','ABC123abc*');
